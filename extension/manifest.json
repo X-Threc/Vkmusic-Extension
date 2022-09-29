@@ -1,0 +1,11 @@
+{
+    "name": "VK Music Extension",
+    "description": "Расширение для удобной работы с страницой Музыка в ВК",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": [ "<all_urls>" ],
+            "js": [ "script.js" ]
+        }
+    ]
+}
