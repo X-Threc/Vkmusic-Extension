@@ -5,7 +5,7 @@
     "manifest_version": 3,
     "content_scripts": [
         {
-            "matches": [ "https://vk.com/*"],1
+            "matches": [ "https://vk.com/*"],12
             "js": [ "script.js" ],
             "run_at": "document_idle"
         }
