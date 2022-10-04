@@ -1,7 +1,7 @@
 {
     "name": "VK Music Extension",
     "description": "Расширение для удобной работы со страницей 'Музыка' в ВК",
-    "version": "0.2",
+    "version": "0.5",
     "manifest_version": 3,
     "content_scripts": [
         {
